@@ -35,8 +35,6 @@ Stockit uses PostgreSQL with the following main tables:
 - Suppliers
 - Stock Transactions
 
-## Structure Folder
-
 ## Project Structure
 
 ```text
